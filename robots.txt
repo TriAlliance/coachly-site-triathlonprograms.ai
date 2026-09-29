@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://triathlonprograms.ai/sitemap.xml
